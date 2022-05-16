@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Temple_of_Karnak">Temple of Karnak, Luxor</string>
+    <string name="DTemple_of_Karnak">Within a city of towering obelisks, sanctuaries, and squares,
+        Temple of Karnak is part of World Heritage-listed ancient ruins, once probably one of the
+        largest religious sites ever built.</string>
+
+    <string name="The_Museum">The Museum of Egyptian Antiquities, Cairo</string>
+    <string name="DThe_Museum">Ancient history at its best, The Museum of Egyptian Antiquities boasts
+        a collection notable for its standout pieces and, with a total of around 120,000 pieces,
+        for its depth. First timers will want to see the Gold Mask of Tutankhamen.</string>
+
+    <string name="Pyramids">Pyramids of Giza, Giza</string>
+    <string name="DPyramids">The last of the original Seven Wonders of the World, Pyramids of Giza 
+        include a complex of World Heritage-listed ancient monuments, including the Great Pyramid. 
+        Dating back to around 2560 BCE, the pyramids were built by thousands of workers under the 
+        command of successive pharaohs,</string>
+
+    <string name="Valley_of_kings">Valley of the Kings, Luxor</string>
+    <string name="DValley_of_kings">Journey back in time by visiting Valley of the Kings, one of
+        the worlds most significant archaeological sites, dating back to the Egyptian New Kingdom.
+        The area contains about 63 tombs and chambers, final resting places of pharaohs and nobles.</string>
+
+    <string name="Abu_simble">Abu Simbel Temple Complex, Abu Simbel</string>
+    <string name="DAbu_simble">The power of one of the most iconic pharaohs remains evident at Abu
+        Simbel Temple Complex, a pair of colossal temples forming part of a World Heritage Site.
+        Consisting of the Great Temple and the Small Temple, the complex was built during the reign
+        of Ramses II in the 13th century BCE. </string>
+
+    <string name="Medinet_Habu">Medinet Habu, Luxor</string>
+    <string name="DMedinet_Habu">Stand in awe of the architecture and artistry of Medinet Habu, the 
+        well-preserved mortuary temple of Ramesses III and part of the Theban Necropolis World Heritage Site.</string>
+    
+    <string name="St_Catherines_Monastery">St. Catherines Monastery, Saint Catherine</string>
+    <string name="DSt_Catherines_Monastery">Pay a visit to the World Heritage Site of St. Catherines
+        Monastery, a still-functioning Eastern Orthodox monastery that dates back to the 6th century.
+        Said to be one of the oldest active Christian monasteries in the world, the ancient walled complex
+        lies nestled in the rocky foothills of Mount Sinai.</string>
+
+    <string name="Mosque_of_Muhammad">Mosque of Muhammad Ali, Cairo</string>
+    <string name="DMosque_of_Muhammad">Gaze up at the striking array of domes and minarets that make
+        Mosque of Muhammad Ali an imposing and ornate place of worship. Constructed on orders of Mohamed
+        Ali Pasha between 1830 and 1848, the mosque stands atop a hill and features a 52 m (170 ft) high
+        central dome and twin minarets visible from many points around the capital.</string>
+
+    <string name="Philae_Temple">Philae Temple, Aswan</string>
+    <string name="DPhilae_Temple">An island temple complex dedicated to the Ancient Egyptian goddess
+        Isis, Philae Temple makes up part of a larger set of World Heritage-listed monuments. With hieroglyphs
+        and monumental colonnades, the temple displays features from the late Pharaonic era, though alterations
+        continued right up to the Byzantine period.</string>
+
+    <string name="Mosque_and_Madrasa_of_Sultan_Hassan">Mosque and Madrasa of Sultan Hassan, Cairo</string>
+    <string name="DMosque_and_Madrasa_of_Sultan_Hassan">Reportedly the finest example of early Mamluk
+        architecture, Mosque and Madrasa of Sultan Hassan draws tourists not only with its impressive
+        exterior and extravagant interior, but also with its rich history. Commissioned in 1356, the
+        building is of gargantuan size, unusual egg-shape, with a wooden dome and twin minarets.</string>
+    
+    <string name="Kharga_Oasis">Kharga Oasis</string>
+    <string name="DKharga_Oasis">It is located south Assiut and it has inside the best deep wells that
+        have lots of therapeutic benefits including Nasser Wells and Bulaq Wells which are self-flowing
+        deep wells, stems at a depth of 1000 meters, and a temperature of 28 ° C, that is surrounded by
+        areas of greenery.</string>
+
+    <string name="Bahariya_Oasis">Bahariya Oasis</string>
+    <string name="DBahariya_Oasis">Those are some of the most well-known oases in Egypt that are located 
+        in the Western Desert. It is a group of Egyptian oases located in the Western Desert 350 km southwest 
+        of Alexandria, 370 km from Cairo where it belongs to Giza Governorate.</string>
+    
+    <string name="Aswan_City">Aswan City</string>
+    <string name="DAswan_City">Aswan is a famous tourist city that is located in Upper Egypt and besides
+        its majestic ancient &amp; modern attractions that are located on the banks of the Nile River
+        it has the most convenient atmosphere that is very relaxing and suitable for the patients who suffer
+        from respiratory diseases, kidneys diseases</string>
+
+    <string name="Siwa_Oasis">Siwa Oasis</string>
+    <string name="DSiwa_Oasis">Siwa Oasis has the most natural erosion factors that enable it to be
+        the most visited natural treatment spot all around Egypt. It contains about natural 230 freshwater
+        springs and more than naturally flowing 1000 wells.</string>
+
+    <string name="Ras_Sedr">Ras Sedr</string>
+    <string name="DRas_Sedr">It is an awesome tourist town in Sinai Governorate exactly on the Suez
+        Gulf. It is a very well-known spot that holds “Ouyoon Moussa” (Moussa’s wells) that dates back
+        to the ancient era of Egypt and it witnesses the arrival of Prophet Moses, the Greeks, the Romans,
+        and Jesus Christ.</string>
+    
+    <string name="Dahab">Dahab</string>
+    <string name="DDahab">Dahab is located some 85 km (53 miles) north of Sharm el-Sheikh on the Gulf 
+        of Aqaba, near the southern tip of Sinai. Once an isolated coastal village, Dahab turned into 
+        a hippie hangout in the 1980’s and became something of an “alternative resort”, mixing cheap 
+        accommodation with a laid back lifestyle. </string>
+    
+    <string name="River_Nile_Cruise">River Nile Cruise</string>
+    <string name="DRiver_Nile_Cruise">Cruising the Nile is a popular way of visiting upper Egypt. 
+        The Nile River has been Egypt’s lifeline since ancient times and there is no better way to 
+        trace the passage of Egypt’s history than to follow the course of the Nile.</string>
+    
+    <string name="Red_Sea_Reef">Red Sea Reef</string>
+    <string name="DRed_Sea_Reef">The Red Sea, off the coast of Egypt, is one of the most beautiful
+        places in the world to go diving. The waters of the Red Sea are renowned for their spectacular
+        visibility and features some of the most exotic seascapes.</string>
+    
+    <string name="Sharm_el_Sheikh"> Sharm el-Sheikh</string>
+    <string name="DSharm_el_Sheikh">Sharm el Sheikh is one of the most popular resort towns in Egypt,
+        located at the tip of the Sinai Peninsula. With its warm, deep blue water and great golden beaches,
+        Sharm (as it’s affectionately called) is a popular package holiday destination with its own airport.</string>
+
+    <string name="Fjord_Bay">Fjord Bay, Taba</string>
+    <string name="DFjord_Bay">Located around 15-kilometers away from the small Egyptian town of Taba,
+        near the border with neighboring Eilat in Israel, is a piece of picture-perfect paradise.
+        Fjord Bay is the ideal location for diving, whether you have hundreds of hours of diving experience
+        under your belt or you fancy giving it a go for the first time.</string>
+</resources>
